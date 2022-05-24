@@ -1,0 +1,7 @@
+{
+    "htmlLang" : "fr",
+    "titre" : "Test de page multilingue",
+    "paragraphe" : "Ceci est le texte de paragraphe, sous le titre, et de longueur variable.",
+    "boutonFR" : "Français",
+    "boutonEN" : "English"
+}
